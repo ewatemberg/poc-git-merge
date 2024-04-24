@@ -1,1 +1,6 @@
-modifico el archivo 2
+bloque 3 de codigo
+*
+*
+*
+*
+cierro bloque

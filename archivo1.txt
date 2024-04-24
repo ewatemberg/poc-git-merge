@@ -1,1 +1,13 @@
-modifico el archivo 1 desde hu
+esto es un bloque de codigo
+*
+*
+*
+*
+cierra bloque
+
+esto es otro bloque de codigo
+*
+*
+*
+*
+cierra bloque
